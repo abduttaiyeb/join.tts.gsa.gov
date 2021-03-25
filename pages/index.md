@@ -82,7 +82,7 @@ TTS is comprised of four business units and front office, operations, and acquis
 -   [**Office of Operations**](https://join.tts.gsa.gov/tts-offices/#office-of-operations)
 -   [**Office of Acquisition**](https://join.tts.gsa.gov/tts-offices/#office-of-acquisition)
 
-Hear from TTS staff members about why they love their work and being
+Hear from the TTS staff members about why they love their work and being
 part of this amazing organization.
 
 {% include youtube.html id="WURf2Z1uTaI" %}
